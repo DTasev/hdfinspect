@@ -1,0 +1,1 @@
+Tool to inspect HDF files, written in Python using PyQt5.
